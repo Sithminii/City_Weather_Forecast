@@ -7,4 +7,7 @@ A Node-red dashboard that facilitates you to get current weather information of 
 
 ## Node-Red Dashboard
 
-![image](https://github.com/Sithminii/City_Weather_Forecast/assets/129846300/dbe1863a-8445-4f88-a559-ec54390c2ad2)
+![2](https://github.com/Sithminii/City_Weather_Forecast/assets/129846300/a31346f9-16e2-418a-87be-a3f7ea499a6c)
+![3](https://github.com/Sithminii/City_Weather_Forecast/assets/129846300/0bc08c61-7608-4865-8f73-90818e39ccb0)
+![4](https://github.com/Sithminii/City_Weather_Forecast/assets/129846300/c39852e6-bc3f-4f13-9548-b0ac2a1682e1)
+
